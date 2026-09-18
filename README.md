@@ -60,59 +60,192 @@ const NaifNaqeeb = {
 
   funFact: "I debug with console.log and I'm not ashamed 😄"
 };
-🔭  Currently working on AI/ML and full-stack applications
-🌱  Exploring Agentic AI, RAG, LangGraph, cloud architecture & DevOps
-👨‍💻  Interested in Full Stack Development + AI/ML
-🤝  Looking to collaborate on interesting open-source and AI projects
-📫  Reach me at naifnaqeeb.123@gmail.com
-🌐  Portfolio: naif-portfolio-pi.vercel.app
-<br/> <!-- ═══════════════ EXPERIENCE ═══════════════ -->
-💼 Experience
-AI/ML Intern — PGAGI Consultancy Pvt. Ltd.
+```
 
-June 2026 – Present · Remote
+- 🔭 &nbsp;Currently working on **AI/ML and full-stack applications**
+- 🌱 &nbsp;Exploring **Agentic AI, RAG, LangGraph, cloud architecture & DevOps**
+- 👨‍💻 &nbsp;Interested in **Full Stack Development + AI/ML**
+- 🤝 &nbsp;Looking to collaborate on **interesting open-source and AI projects**
+- 📫 &nbsp;Reach me at **naifnaqeeb.123@gmail.com**
+- 🌐 &nbsp;Portfolio: **[naif-portfolio-pi.vercel.app](https://naif-portfolio-pi.vercel.app/)**
 
-Working on AI/ML and full-stack applications
-Building AI-powered features using Python, FastAPI, LLMs and RAG
-Working with Next.js, React, Node.js and PostgreSQL
-Exploring HuggingFace, OpenAI APIs, Docker and cloud technologies
-<br/> <!-- ═══════════════ TECH STACK ═══════════════ -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">  Tech Stack
+<br/>
+
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+
+## 💼 Experience
+
+### AI/ML Intern — PGAGI Consultancy Pvt. Ltd.
+
+**June 2026 – Present · Remote**
+
+- Working on AI/ML and full-stack applications
+- Building AI-powered features using **Python, FastAPI, LLMs and RAG**
+- Working with **Next.js, React, Node.js and PostgreSQL**
+- Exploring **HuggingFace, OpenAI APIs, Docker and cloud technologies**
+
+<br/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Stack
+
 <div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,sql&theme=dark" />
-Frontend
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
+
+<br/><br/>
+
+### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux&theme=dark" />
-Backend & AI
+
+<br/><br/>
+
+### Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-Databases & Vector Stores
+### Databases
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
 
 <br/><br/>
 
-AI / ML
+### AI / ML
 
-LangChain · LangGraph · RAG · ChromaDB · Pinecone · HuggingFace · LLMs
-
-Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,jenkins,git,githubactions,vercel&theme=dark" /> </div> <br/> <!-- ═══════════════ GITHUB STATS ═══════════════ -->
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28">  GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=naifnaqeeb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naifnaqeeb&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" alt="Top Languages" />
+**LangChain** · **LangGraph** · **RAG** · **ChromaDB** · **Pinecone** · **HuggingFace** · **LLMs**
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=naifnaqeeb&hide_border=true&theme=tokyonight&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" /> </div> <br/> <!-- ═══════════════ TROPHIES ═══════════════ -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">  Trophy Case
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=naifnaqeeb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" /> </div> <br/> <!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
-<img src="https://media.giphy.com/media/ZDOf6A0pBlGpMs2rOP/giphy.gif" width="28">  Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=naifnaqeeb&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" /> </div> <!-- ─────────── CONTRIBUTION SNAKE ─────────── --> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naifnaqeeb/naifnaqeeb/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naifnaqeeb/naifnaqeeb/output/github-snake.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/naifnaqeeb/naifnaqeeb/output/github-snake.svg" width="100%" /> </picture> </div> <br/> <!-- ═══════════════ PROJECTS ═══════════════ -->
-🚀 Featured Projects
-<div align="center"> <a href="https://github.com/naifnaqeeb"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=naifnaqeeb&repo=VitCare&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" /> </a> <a href="https://github.com/naifnaqeeb"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=naifnaqeeb&repo=CampusResolve&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" /> </a> </div> <br/> <!-- ═══════════════ CONNECT ═══════════════ -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">  Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/naifnaqeeb"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/YOUR_X"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="mailto:naifnaqeeb.123@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://naif-portfolio-pi.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </div> <br/> <!-- ═══════════════ QUOTE ═══════════════ --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" /> </div> <br/> <div align="center">
-⭐ From Naif Naqeeb — thanks for stopping by!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" /> </div> ```
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,jenkins,git,githubactions,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naifnaqeeb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naifnaqeeb&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=naifnaqeeb&hide_border=true&theme=tokyonight&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ TROPHIES ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=naifnaqeeb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/ZDOf6A0pBlGpMs2rOP/giphy.gif" width="28"> &nbsp;Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naifnaqeeb&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+
+</div>
+
+<br/>
+
+<!-- ─────────── CONTRIBUTION SNAKE ─────────── -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naifnaqeeb/naifnaqeeb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naifnaqeeb/naifnaqeeb/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/naifnaqeeb/naifnaqeeb/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/naifnaqeeb/VitCare">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naifnaqeeb&repo=VitCare&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" />
+</a>
+
+<a href="https://github.com/naifnaqeeb/CampusResolve">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naifnaqeeb&repo=CampusResolve&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/naifnaqeeb">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/YOUR_X">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:naifnaqeeb.123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://naif-portfolio-pi.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ QUOTE ═══════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ From [Naif Naqeeb](https://github.com/naifnaqeeb) — thanks for stopping by!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
