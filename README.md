@@ -130,19 +130,17 @@ const NaifNaqeeb = {
 
 <br/>
 
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=naifnaqeeb&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=naifnaqeeb&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naifnaqeeb&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naifnaqeeb&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=naifnaqeeb&hide_border=true&theme=tokyonight&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=naifnaqeeb&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -150,23 +148,21 @@ const NaifNaqeeb = {
 
 <!-- ═══════════════ TROPHIES ═══════════════ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Trophy Case
+## 🏆 Trophy Case
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=naifnaqeeb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=naifnaqeeb&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
-
-## <img src="https://media.giphy.com/media/ZDOf6A0pBlGpMs2rOP/giphy.gif" width="28"> &nbsp;Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naifnaqeeb&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naifnaqeeb&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -198,8 +194,8 @@ const NaifNaqeeb = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=naifnaqeeb&repo=VitCare&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" />
 </a>
 
-<a href="https://github.com/naifnaqeeb/CampusResolve">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naifnaqeeb&repo=CampusResolve&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" />
+<a href="https://github.com/naifnaqeeb/EvidenceChain">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naifnaqeeb&repo=EvidenceChain&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=7AA2F7" />
 </a>
 
 </div>
